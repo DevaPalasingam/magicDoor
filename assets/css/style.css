@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+	background-color: black;
+}
+
+.container {
+	margin: auto;
+	text-align: center;
+}
+
+.greenDoor {
+	background-color: green;
+}
+
+.redDoor {
+	background-color: red;
+}
+
+.blueDoor {
+	background-color: blue;
+}
+
+.door {
+	height: 250px;
+	width: 100px;
+	margin: 20px auto 0 auto;
+}
+
+.titleCol>p {
+	font-size: 60px;
+	color: white;
+}
+
+.descriptionCol>p {
+	font-size: 20px;
+	color: white;
+}
